@@ -1,4 +1,4 @@
-# Ollama Basic Lite 🦙
+# Ollama Basic UI 🦙
 
 Ollama Web UI Lite is a streamlined version of [Ollama Web UI](https://github.com/ollama-webui/ollama-webui), designed to offer a simplified user interface with minimal features and reduced complexity. The primary focus of this project is on achieving cleaner code through a full TypeScript migration, adopting a more modular architecture, ensuring comprehensive test coverage, and implementing a robust CI/CD pipeline.
 
@@ -62,4 +62,5 @@ If you have any questions, suggestions, or need assistance, please open an issue
 ---
 
 [Random Cat User](https://github.com/tjbck) - Let's make Ollama Web UI even more amazing together! 💪
+
 
